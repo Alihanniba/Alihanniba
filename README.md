@@ -1,13 +1,15 @@
 ### Hi there 👋
 
+
+![visitor](https://visitor-badge.glitch.me/badge?page_id=Alihanniba.README)  
+
+![info](https://github-readme-stats.vercel.app/api?username=Alihanniba&show_icons=true&count_private=true&hide=prs&theme=default_repocard)  
+
+
 <!--
 **Alihanniba/Alihanniba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-![](https://visitor-badge.glitch.me/badge?page_id=Alihanniba.README)
-
-![info](https://github-readme-stats.vercel.app/api?username=Alihanniba&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
