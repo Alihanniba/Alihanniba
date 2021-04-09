@@ -7,8 +7,6 @@
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alihanniba)
 
-<script src="https://gist.github.com/Alihanniba/1f845893b1417468509fcdc6c1075850.js"></script>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alihanniba&langs_count=8)
 
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
@@ -29,3 +27,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
