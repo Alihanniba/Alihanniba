@@ -1,4 +1,12 @@
-### Hi there
+### Hi there, I'm Takeone
+
+I'm a software engineer based in Beijing, currently working at ByteDance.  
+I enjoy building practical tools, exploring backend systems, automation, AI-powered workflows, and anything that turns messy ideas into working software.
+
+- Working mostly with Go, Python, JavaScript, and web technologies
+- Interested in developer tools, data pipelines, crawlers, and productivity systems
+- Personal site: [alihanniba.com](https://alihanniba.com/)
+- Motto: All The Greatness Comes From A Brave Start
 
 ![profile views](https://komarev.com/ghpvc/?username=Alihanniba&style=flat-square&color=blue)
 
